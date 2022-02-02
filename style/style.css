@@ -1,0 +1,26 @@
+* {
+    background-color: #FFE68D;
+    color: #743912;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #f78b33;
+    font-weight: bold;
+}
+
+h2 {
+    color: #f77133;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: #eb451c;
+    font-weight: bold;
+}
+a:hover {
+    color: #0597aa;
+}
